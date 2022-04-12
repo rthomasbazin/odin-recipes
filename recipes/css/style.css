@@ -1,0 +1,59 @@
+* {
+  border: 0px solid white;
+}
+
+body {
+  background-color: lightblue;
+  color: black; 
+  font-size: 24px;
+}
+
+p {
+  color: darkblue; 
+}
+
+div {
+  padding: 20px;
+}
+
+.toppity {
+  font-size: 32px;
+  color: navy
+}
+
+.midsies {
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 42px;
+  color: purple;
+}
+
+span {
+  color: purple; 
+  font-size: 16px; 
+  font-weight: bold;
+}
+
+.top-part {
+  background: lightgray;
+  padding: 20px;
+  height: 50px;
+  width: 300px;
+  border: 10px solid white;
+  margin: 20px;
+}
+
+.middle-part {
+  background: pink;
+  padding: 20px;
+  height: 50px;
+  width: 300px;
+  border: 15px solid gray; 
+  margin: 20px;
+}
+
+.bottom-part {
+  background: lightyellow;
+}
